@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="<2307lucas>"
+ARG REPO_NAME="<teslaRos>"
 ARG DESCRIPTION="<duckietown>"
 ARG MAINTAINER="<Lucas Frederiksen> (<lsfr21@student.aau.dk>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
